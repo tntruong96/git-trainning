@@ -13,3 +13,5 @@ Willy Kambwala
 Hannibal
 Facundo Pellistri
 Donny van de Beek
+Jadon Sancho
+Anthony Martial

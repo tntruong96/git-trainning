@@ -7,3 +7,4 @@ Gundogan
 Alvarez
 Cancelo
 Yan Couto
+Sergio Gómez
