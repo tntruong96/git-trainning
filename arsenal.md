@@ -13,3 +13,4 @@ Smith-Rowe
 Nketiah
 Ramsdale
 Mohamed Elneny
+Cédric Soares
